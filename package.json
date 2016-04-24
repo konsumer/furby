@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/konsumer/furby/issues"
   },
-  "homepage": "https://github.com/konsumer/furby#readme"
+  "homepage": "https://github.com/konsumer/furby#readme",
+  "dependencies": {
+    "tonegenerator": "0.0.2"
+  }
 }
